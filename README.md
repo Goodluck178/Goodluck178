@@ -40,26 +40,26 @@ Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, 
 
 Check out my pinned repositories to explore projects built with Ionic React, PHP/MySQL, and Python — showcasing my versatility across both web and software development.
 
-downhill-dash 
+#### downhill-dash 
 
 https://github.com/Goodluck178/downhill-dash
 
-waga-online-shopping-cart-system
+#### waga-online-shopping-cart-system
 
 https://github.com/Goodluck178/waga-online-shopping-cart-system
 
 
-waga-commerce-practice
+#### waga-commerce-practice
 
 https://github.com/Goodluck178/waga-commerce-practice
 
 
-Waga-Integrated-Services-Web-Development
+#### Waga-Integrated-Services-Web-Development
 
 https://github.com/Goodluck178/Waga-Integrated-Services-Web-Development
 
 
-smart-intelligent-home-system
+#### smart-intelligent-home-system
 
 https://github.com/Goodluck178/smart-intelligent-home-system
 
