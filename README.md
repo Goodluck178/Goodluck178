@@ -49,9 +49,9 @@ https://github.com/Goodluck178/downhill-dash
 https://github.com/Goodluck178/waga-online-shopping-cart-system
 
 
-#### waga-commerce-practice
+#### waga-skillstack-hub
 
-https://github.com/Goodluck178/waga-commerce-practice
+https://github.com/Goodluck178/waga-skillstack-hub
 
 
 #### Waga-Integrated-Services-Web-Development
