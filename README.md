@@ -1,14 +1,14 @@
 # Hi, I am Ugochukwu  Ofodum 
 
-Junior Software Developer
+💻 Junior Software Developer
 
-Malta, Europe
+📍 Malta, Europe
 
-Advanced Diploma in Information Technology (Software Development)
+🎓 Advanced Diploma in Information Technology (Software Development)
 
 MQF/EQF Level 4
 
-### Alumni of MCAST
+Alumni of MCAST
 
 I’m a junior software developer with a full-stack, IoT, game development portfolio. I demonstrate the full pipeline:
 
