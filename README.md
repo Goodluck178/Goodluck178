@@ -8,7 +8,7 @@ Advanced Diploma in Information Technology (Software Development)
 
 MQF/EQF Level 4
 
-Alumni of MCAST
+### Alumni of MCAST
 
 I’m a junior software developer with a full-stack, IoT, game development portfolio. I demonstrate the full pipeline:
 
