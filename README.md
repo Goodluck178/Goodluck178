@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I am Ugochukwu  Ofodum 👨‍💻 
 
-<!--
-**Goodluck178/Goodluck178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer
 
-Here are some ideas to get you started:
+Malta, Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Advanced Diploma in Information Technology (Software Development)
+
+MQF/EQF Level 4
+
+Alumni of MCAST
+
+I’m a junior software developer with a full-stack, IoT, game development portfolio. I demonstrate the full pipeline:
+
+Modern Mobile: I build with Ionic React, React, Vite, Capacitor (see WAGA Commerce).
+
+Fundamentals: I master Vanilla JS, BEM CSS, and DOM manipulation before frameworks (see WAGA Integrated Services).
+
+Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, and cart persistence (see WAGA Online Shopping Cart)
+
+### Tech Stack
+
+- JavaScript
+
+- React
+
+- Ionic
+
+- PHP
+
+- MySQL
+
+- Python
+
+- C#
+
+
+
