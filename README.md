@@ -1,4 +1,4 @@
-# Hi, I am Ugochukwu  Ofodum 👨‍💻 
+# Hi, I am Ugochukwu  Ofodum 
 
 Junior Software Developer
 
