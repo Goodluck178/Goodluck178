@@ -36,6 +36,8 @@ Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, 
 
 ### Resume
 
+https://github.com/Goodluck178/Goodluck178
+
 ####  Featured Projects
 
 Check out my pinned repositories to explore projects built with Ionic React, PHP/MySQL, and Python — showcasing my versatility across both web and software development.
