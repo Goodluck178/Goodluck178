@@ -34,9 +34,6 @@ Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, 
 
 - C#
 
-### Resume
-
-https://github.com/Goodluck178/resume/blob/main/ugochukwu_ofodum_mcast_software_developer_cv.pdf
 
 ####  Featured Projects
 
