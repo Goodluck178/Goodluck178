@@ -16,7 +16,7 @@ Modern Mobile: I build with Ionic React, React, Vite, Capacitor (see WAGA Commer
 
 Fundamentals: I master Vanilla JS, BEM CSS, and DOM manipulation before frameworks (see WAGA Integrated Services).
 
-Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, and cart persistence (see WAGA Online Shopping Cart)
+Enterprise Backend: I build secure PHP(server-side), MariaDB/MySQL systems with secure BCRYPT, Foreign Keys, and cart persistence (see WAGA Online Shopping Cart)
 
 ### Tech Stack
 
@@ -28,7 +28,7 @@ Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, 
 
 - PHP
 
-- MySQL
+- MySQL / MariaDB
 
 - Python
 
@@ -37,7 +37,7 @@ Enterprise Backend: I build secure PHP/MySQL systems with BCRYPT, Foreign Keys, 
 
 ####  Featured Projects
 
-Check out my pinned repositories to explore projects built with Ionic React, PHP/MySQL, and Python — showcasing my versatility across both web and software development.
+Check out my pinned repositories to explore projects built with Ionic React, PHP, MariaDB/MySQL, and Python — showcasing my versatility across both web and mobile software development.
 
 #### downhill-dash 
 
