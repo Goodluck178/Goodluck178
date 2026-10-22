@@ -16,7 +16,7 @@ Modern Mobile: I build with Ionic React, React, Vite, Capacitor (see WAGA Commer
 
 Fundamentals: I master Vanilla JS, BEM CSS, and DOM manipulation before frameworks (see WAGA Integrated Services).
 
-Enterprise Backend: I build secure PHP(server-side), MariaDB/MySQL systems with secure BCRYPT, Foreign Keys, and cart persistence (see WAGA Online Shopping Cart)
+Enterprise Backend: I build secure PHP(server-side), MariaDB/MySQL database systems with secure BCRYPT, Foreign Keys, and cart persistence (see WAGA Online Shopping Cart)
 
 ### Tech Stack
 
